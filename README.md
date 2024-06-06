@@ -30,8 +30,3 @@ Estudante de <b>Ciência da Computação</b> pela Universidade Estadual de Rorai
   <img src="https://skillicons.dev/icons?i=python,cs" />
 </p>
 
-<div align="center">
- <img align="center" src="https://github.com/yuripreparatore/Studio-Ghibli-Nord-Wallpapers/blob/main/wallpapers/PrincessMononoke/1.png">
-  </a>
-</div>
-<br>
