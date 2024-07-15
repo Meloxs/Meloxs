@@ -1,32 +1,18 @@
-<div align="center">
+# Olá, meu nome é Marcelo!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=529A4C&center=true&vCenter=true&random=false&width=635&lines=%E2%AD%90+Welcome+to+my+profile!;%E2%AD%90+I'm+Marcelo.)](https://git.io/typing-svg)
-<div>
+<a href="https://instagram.com/marhsilv_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/meloxss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<div align="left">
-  </a>
-<br>
+![](https://komarev.com/ghpvc/?username=Meloxs)
+## Sobre mim 🐺
+Estudante de Ciência da Computação na Universidade Estadual de Roraima, atualmente buscando conhecimentos em front-end para me tornar desenvolvedor fullstack.
 
-<div align="center">
-  <!-- Work Links -->
-  <a href="https://github.com/Meloxs" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/meloxs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:marcelohssilva2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
-
-  ## ⭐️ Sobre mim
-
-Estudante de <b>Ciência da Computação</b> pela Universidade Estadual de Roraima, Atualmente, estou imerso no mundo da programação, algoritmos e desenvolvimento de software, buscando constantemente aprimorar minhas habilidades e conhecimentos nesta área. Por aqui irei compartilhar automações, teste e estudos.
-
-<div align="center">
- <img align="center" src="https://i.pinimg.com/originals/91/1e/b1/911eb1f2cff48f9a4179835007eb7fbd.gif"width="334px" height="339px">
-  </a>
-</div>
-<br>
-</div>
-
-## 🛠️ skills and tools
-<p align='center'>
-  <img src="https://skillicons.dev/icons?i=python,cs" />
-</p>
+  ## Conhecimentos 💻
+  
+  * <img width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"> - HTML
+  * <img width="24px" src="https://logospng.org/download/css-3/logo-css-3-2048.png"> - CSS
+  * <img width="24px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-svg-vector.svg"> - Python
+  * <img width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png"> - C
+  * <img width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png"> - C#
+  * <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"> - SQL
 
